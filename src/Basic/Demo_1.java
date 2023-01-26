@@ -1,8 +1,6 @@
-package Demo;
+package Basic;
 
-
-
-public class demo_1 {
+public class Demo_1 {
     public static void main(String[] args) {
         System.out.println("1-Hello i m vijay kumar");
         System.out.println("2-I m a B.com student...");
@@ -12,6 +10,6 @@ public class demo_1 {
         System.out.println("And i learn more about coding with MOANJ bhati....");
         System.out.println("I m learn coding at 2 months.....");
         System.out.println("now we learn oracle.....");
-
+        System.out.println("We are revision for the starting....");
     }
 }
